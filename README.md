@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
       height="100" />
    <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" alt="Sublime" width="80" height="80" />
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" alt="MongoDB" width="100" height="100" />
-   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/LakshaySK106/BhuwanSKumar/blob/main/the_json.png?raw=true" alt="JSON" width='90' />
+   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/BhuwanSKumar/BhuwanSKumar/blob/main/the_json.png?raw=true" alt="JSON" width='90' />
    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" alt="ubuntu" height="100" width="100" />
    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" height="100" width="90" />
    <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/markdown-3630174-3031306.png" alt="Markdown" height="100" width="100" />
@@ -117,10 +117,10 @@ You can click the Preview link to take a look at your changes.
   <a href="https://instagram.com/bhuw_an__" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.Bhuwan._" height="30" width="40" /></a>
-  <a href="https://discord.com/channels/@me" target="_blank"><img align="center"
+<!--   <a href="https://discord.com/channels/@me" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="Bhuwan" height="30" width="40" /></a>
-
+ -->
 </p>
      <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
