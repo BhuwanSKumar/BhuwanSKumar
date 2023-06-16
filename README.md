@@ -110,13 +110,13 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href="https://www.linkedin.com/in/bhuwan-saretia/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Lakshay" height="30" width="40" /></a>
+      alt="Bhuwan" height="30" width="40" /></a>
  <a href="https://twitter.com/imBhuwan_" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Lakshay" height="30" width="40" /></a>
+      alt="Bhuwan" height="30" width="40" /></a>
   <a href="https://instagram.com/bhuw_an__" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+      alt="_._.Bhuwan._" height="30" width="40" /></a>
   <a href="https://discord.com/channels/@me" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="Bhuwan" height="30" width="40" /></a>
