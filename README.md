@@ -88,7 +88,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Currently listening to 🎶</h3>
 <div align="center">
-  <a href="https://open.spotify.com/user/31355fy7md735z475z4rql7zatqq">
+  <a href="https://open.spotify.com/user/31rvlrjwtlfnafs4ri3k6vq7mppm">
     <img src="https://spotify-now-playing-gold-seven.vercel.app/api/now-playing">
   </a>
 </div>
