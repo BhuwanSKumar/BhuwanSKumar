@@ -115,7 +115,7 @@
   <a href="https://instagram.com/imbhuwan_" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="imbhuwan_" height="30" width="40" /></a>
-  <a href="https://discord.com/users/Lakshay%E2%97%A5%E2%96%B6_%E2%97%80%E2%97%A4#4372" target="_blank"><img align="center"
+  <a href="https://discord.com/users/1027218773280825378" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="Bhuwan" height="30" width="40" /></a>
   <a href="#"><img align="center"
