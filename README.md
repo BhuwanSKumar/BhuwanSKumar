@@ -93,7 +93,7 @@
   
 <h3>Let the Snake eat my contributions</h3>
 <p align='center'>
-  <img src="https://github.com/LakshaySK106/BhuwanSKumar/raw/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/BhuwanSKumar/BhuwanSKumar/raw/output/github-contribution-grid-snake.svg">
 <!--   ![image](https://github.com/LakshaySK106/LakshaySK106/blob/output/github-contribution-grid-snake.svg) -->
 
 </p>
