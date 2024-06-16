@@ -85,7 +85,7 @@
 <h3>Currently listening to 🎶</h3>
 <div align="center">
   <a href="https://open.spotify.com/user/31rvlrjwtlfnafs4ri3k6vq7mppm">
-    <img src="https://spotify-now-playing-gold-seven.vercel.app/api/now-playing">
+    <img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rvlrjwtlfnafs4ri3k6vq7mppm&cover_image=false&theme=default&show_offline=false&background_color=130101&interchange=true&bar_color=22ee1b&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31rvlrjwtlfnafs4ri3k6vq7mppm&redirect=true)">
   </a>
 </div>
 <p  align="center">
