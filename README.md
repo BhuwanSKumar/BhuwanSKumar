@@ -1,6 +1,8 @@
 <!-- Header GIF -->
 <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
 
+![Snake animation](https://github.com/bhuwansaretia/bhuwansaretia/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Greeting Section -->
 <h3 align="center">Hello Fellow &lt; Coders / &gt;! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
 
