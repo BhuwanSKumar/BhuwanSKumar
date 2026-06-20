@@ -93,6 +93,15 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+## 🐍 Let the Snake eat my Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BhuwanSKumar/BhuwanSKumar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 
 ### 🪶 GSSoC 2024 Badges
